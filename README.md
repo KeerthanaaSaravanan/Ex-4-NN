@@ -2,7 +2,7 @@
 <H3>NAME: KEERTHANA S</H3>
 <H3>REGISTER NO: 212223240070</H3>
 <H3>EX. NO.4</H3>
-<H3>DATE:26-09-2024</H3>
+<H3>DATE:27/09/24</H3>
 <H1 ALIGN =CENTER>Implementation of MLP with Backpropagation for Multiclassification</H1>
 <H3>Aim:</H3>
 To implement a Multilayer Perceptron for Multi classification
@@ -113,7 +113,6 @@ Normalize our dataset.
 7. In order to get the predicted values we call the predict() function on the testing data set.
 
 8. Finally, call the functions confusion_matrix(), and the classification_report() in order to evaluate the performance of our classifier.
-
 
 <H3>Program:</H3> 
 
