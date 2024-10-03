@@ -1,4 +1,4 @@
-<H1 ALIGN =CENTER>Implementation of MLP with Backpropagation for Multiclassification</H1>
+<H1 ALIGN =CENTER>EX-4: Implementation of MLP with Backpropagation for Multiclassification</H1>
 
 <H3>NAME: KEERTHANA S</H3>
 <H3>REGISTER NO.: 212223240070</H3>
@@ -159,7 +159,7 @@ print(classification_report(y_test,predictions))
 
 <H3>Output:</H3>
 
-![WhatsApp Image 2024-04-10 at 15 11 21_0ab0df87](https://github.com/Hezron-lix/Ex-4-NN/assets/139331337/02da97cb-f666-434f-860b-84d77282c6b9)
+![image](https://github.com/user-attachments/assets/0b8ebaff-c9c4-457b-be85-245c5a47a165)
 
 <H3>Result:</H3>
 Thus, MLP is implemented for multi-classification using python.
