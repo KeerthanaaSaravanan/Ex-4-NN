@@ -3,7 +3,7 @@
 <H3>NAME: KEERTHANA S</H3>
 <H3>REGISTER NO.: 212223240070</H3>
 <H3>EX. NO.4</H3>
-<H3>DATE:</H3>
+<H3>DATE: 10.10.24</H3>
 
 <H3>Aim:</H3>
 To implement a Multilayer Perceptron for Multi classification
@@ -117,7 +117,7 @@ Normalize our dataset.
 
 <H3>Program:</H3> 
 
-``` python
+``` py
 import pandas as pd
 import sklearn
 from sklearn import preprocessing
